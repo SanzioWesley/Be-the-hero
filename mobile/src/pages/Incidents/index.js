@@ -28,7 +28,7 @@ export default function Incidents() {
 
         if (total > 0 && incidents.length === total) {
             return
-        }
+        }    
 
         setLoading(true)
 

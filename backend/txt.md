@@ -1,2 +1,2 @@
-npm start   ==  Iniciar servidor
+npm start / yarn start   ==  Iniciar servidor
 
