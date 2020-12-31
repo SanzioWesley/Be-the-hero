@@ -1,3 +1,3 @@
 # Be-the-Hero
 
-Aplicação que conecta ONGs e pessoas que tem tem interesse em ajudar financeiramente.
+Aplicação que conecta ONGs que precisam de ajuda financeira e pessoas que podem ajudar.
