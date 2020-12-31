@@ -1,3 +1,3 @@
 # Be-the-Hero
 
-Aplicação que conecta ONGs que precisam de ajuda financeira e pessoas que podem ajudar.
+Aplicação da 11ª Semana OmniStack da Rocketseat que conecta ONGs que precisam de ajuda financeira e pessoas que podem ajudar.
